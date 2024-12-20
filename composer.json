@@ -1,11 +1,11 @@
 {
-    "name": "schulzefelix/laravel-bigquery",
+    "name": "proxify-ab/laravel-bigquery",
     "type": "library",
     "description": "",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/schulzefelix/laravel-bigquery",
+    "homepage": "https://github.com/proxify-ab/laravel-bigquery",
     "license": "MIT",
     "authors": [
         {
